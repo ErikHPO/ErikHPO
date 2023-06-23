@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Notalhub](https://notalhub.com)
 
-- 🌱 I’m currently learning **Web3.js**
+- 🌱 I’m currently learning **NextJS and TailwindCSS**
 
 - 💬 Ask me about **how to legally register your documents w blockchain technology**
 
