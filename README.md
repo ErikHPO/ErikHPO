@@ -2,11 +2,9 @@
 <h3 align="center">A web developer that loves blockchain and disruptibility</h3>
 
 
-- 🔭 I’m currently working on [Notalhub](https://notalhub.com)
+- 🔭 I’m currently working on [Iguassu CityTour](https://iguassucitytour.com.br)
 
-- 🌱 I’m currently learning **NextJS and TailwindCSS**
-
-- 💬 Ask me about **how to legally register your documents w blockchain technology**
+- 🌱 I’m currently improving my skills w **NextJS and Material-UI**
 
 <a href="https://www.fodey.com/generators/animated/ninjatext.asp"><img src="https://r11.fodey.com/2718/295fa947d74f42a29613538df25daea2.1.gif" border=0 width="244" height="119" alt=""></a>
 
