@@ -2,7 +2,7 @@
 <h3 align="center">A web developer that loves blockchain and disruptibility</h3>
 
 
-- 🔭 I’m currently working on [Iguassu CityTour](https://iguassucitytour.com.br)
+- 🔭 I’m currently working on Client Private Projects
 
 - 🌱 I’m currently improving my skills w **NextJS and Material-UI**
 
